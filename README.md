@@ -1,1 +1,8 @@
-изменения по задаче 2. Ветки в IDEA [#504828]
+# Study project on course job4j.ru
+### Topic - Git
+There add action for task #504828
+
+### Author
+Viacheslav Osipov  
+[slavaosipov1199@gmail.com](mailto:slavaosipov1199@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/viacheslav-osipov-67806ab3/)
