@@ -1,6 +1,6 @@
 # job4j_threads
 # Study project on course job4j.ru
-### Topic - Git
+### Topic - Threads
 
 ### Author
 Viacheslav Osipov  
