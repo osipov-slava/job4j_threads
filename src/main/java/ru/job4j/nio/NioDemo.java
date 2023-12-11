@@ -23,7 +23,5 @@ public class NioDemo {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
     }
-
 }
